@@ -1,3 +1,3 @@
 def call(){
-  echo "hello shared lib"
+  echo "hello from jenkins"
 }
